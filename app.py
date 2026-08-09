@@ -32,7 +32,7 @@ resume = st.file_uploader(
 # -----------------------------
 def recommend_internships(user_skills):
 
-    df = pd.read_csv("data/internships.csv")
+    pd.read_csv("internships.csv")
 
     recommendations = []
 
