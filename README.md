@@ -39,4 +39,6 @@ Apply Now
 - PyMuPDF
 - CSV Dataset
 
-#
+
+Clone the repository:
+https://github.com/Gaurip20/CareerPilot-Internship-Recommender.git
